@@ -6,4 +6,3 @@ build
 .env.test.local
 .env.production.local
 .DS_Store
-*.log
